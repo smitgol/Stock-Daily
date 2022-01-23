@@ -4,15 +4,15 @@ I have build Django based website where you enter your email address and select 
 
 
  <strong>Here are some Images how its look in desktop:- </strong><br><br>
-<br><img src="https://github.com/smitgol/Stock-Daily/blob/master/Alive/Images%20for%20readme%20file/part1.PNG"><br>
-<br><img src="https://github.com/smitgol/Stock-Daily/blob/master/Alive/Images%20for%20readme%20file/part2.PNG"><br>
-<br><img src="https://github.com/smitgol/Stock-Daily/blob/master/Alive/Images%20for%20readme%20file/part3.PNG"><br>
-<br><img src="https://github.com/smitgol/Stock-Daily/blob/master/Alive/Images%20for%20readme%20file/part4.PNG"><br><br>
+<br><img src="https://github.com/smitgol/Stock-Daily/blob/master/Stock_project/Images%20for%20readme%20file/part1.PNG"><br>
+<br><img src="https://github.com/smitgol/Stock-Daily/blob/master/Stock_project/Images%20for%20readme%20file/part2.PNG"><br>
+<br><img src="https://github.com/smitgol/Stock-Daily/blob/master/Stock_project/Images%20for%20readme%20file/part3.PNG"><br>
+<br><img src="https://github.com/smitgol/Stock-Daily/blob/master/Stock_project/Images%20for%20readme%20file/part4.PNG"><br><br>
  <strong>And some Images for Mobile version:-</strong> <br><br>
  <div>
- <br><img src="https://github.com/smitgol/Stock-Daily/blob/master/Alive/Images%20for%20readme%20file/part5.PNG">&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp
- <img src="https://github.com/smitgol/Stock-Daily/blob/master/Alive/Images%20for%20readme%20file/part6.PNG">&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp
- <img src="https://github.com/smitgol/Stock-Daily/blob/master/Alive/Images%20for%20readme%20file/part7.PNG"><br><br>
+ <br><img src="https://github.com/smitgol/Stock-Daily/blob/master/Stock_project/Images%20for%20readme%20file/part5.PNG">&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp
+ <img src="https://github.com/smitgol/Stock-Daily/blob/master/Stock_project/Images%20for%20readme%20file/part6.PNG">&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp
+ <img src="https://github.com/smitgol/Stock-Daily/blob/master/Stock_project/Images%20for%20readme%20file/part7.PNG"><br><br>
  </div>
  
  
