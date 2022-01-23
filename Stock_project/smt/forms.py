@@ -2,7 +2,7 @@ from django.forms import ModelForm
 from .models import trails
 from django import forms
 from nsetools import Nse
-
+from BuyTips.models import UserEmail
 
 class forr(ModelForm):
     class Meta:
@@ -14,3 +14,7 @@ class forr(ModelForm):
         widgets = {
         'stocks': forms.CheckboxSelectMultiple(choices=trai),
         }
+class Tips_Form(ModelForm):
+    class Meta:
+        model = UserEmail
+        fields = "__all__"
