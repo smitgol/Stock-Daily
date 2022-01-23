@@ -10,7 +10,7 @@ class Command(BaseCommand):
 
         template= get_template('email.html')
 
-        context = Context({'user': ['one', 'two'], 'other_info': 'no'})
+        context = Context({'tips_data': tips_obj})
 
         content = template.render(context.flatten())
         
